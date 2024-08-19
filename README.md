@@ -1,1 +1,1 @@
-# fusx
+# Focused ultrasound solver
